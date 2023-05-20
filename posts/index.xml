@@ -10,22 +10,13 @@
       <link>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 May 2023 02:57:05 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://www.chenhao9898.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TestBlog</title>
-      <link>https://www.chenhao9898.com/posts/testblog/</link>
-      <pubDate>Sat, 20 May 2023 02:57:05 -0400</pubDate>
-      
-      <guid>https://www.chenhao9898.com/posts/testblog/</guid>
-      <description>测试</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://www.chenhao9898.com/posts/test2/</link>
+      <title>序言</title>
+      <link>https://www.chenhao9898.com/posts/start/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://www.chenhao9898.com/posts/test2/</guid>
+      <guid>https://www.chenhao9898.com/posts/start/</guid>
       <description>Desc Text.</description>
     </item>
     
