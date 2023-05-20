@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.chenhao9898.com/sitemap.xml
