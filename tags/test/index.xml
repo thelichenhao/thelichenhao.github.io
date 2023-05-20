@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Chenhao&#39;s Blog</title>
-    <link>https://www.chenhao9898.com/categories/</link>
-    <description>Recent content in Categories on Chenhao&#39;s Blog</description>
+    <title>test on Chenhao&#39;s Blog</title>
+    <link>https://www.chenhao9898.com/tags/test/</link>
+    <description>Recent content in test on Chenhao&#39;s Blog</description>
     <image>
       <title>Chenhao&#39;s Blog</title>
       <url>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 May 2023 02:57:05 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 02:57:05 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test</title>
-      <link>https://www.chenhao9898.com/categories/test/</link>
+      <title>TestBlog</title>
+      <link>https://www.chenhao9898.com/posts/testblog/</link>
       <pubDate>Sat, 20 May 2023 02:57:05 -0400</pubDate>
       
-      <guid>https://www.chenhao9898.com/categories/test/</guid>
-      <description></description>
+      <guid>https://www.chenhao9898.com/posts/testblog/</guid>
+      <description>测试</description>
     </item>
     
   </channel>
