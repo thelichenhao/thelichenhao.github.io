@@ -9,16 +9,6 @@
       <url>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 May 2023 02:57:05 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test</title>
-      <link>https://www.chenhao9898.com/categories/test/</link>
-      <pubDate>Sat, 20 May 2023 02:57:05 -0400</pubDate>
-      
-      <guid>https://www.chenhao9898.com/categories/test/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.chenhao9898.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
