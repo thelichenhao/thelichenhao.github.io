@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Chenhao&#39;s Blog</title>
-    <link>https://www.chenhao9898.com/</link>
-    <description>Recent content on Chenhao&#39;s Blog</description>
+    <title>国内 on Chenhao&#39;s Blog</title>
+    <link>https://www.chenhao9898.com/tags/%E5%9B%BD%E5%86%85/</link>
+    <description>Recent content in 国内 on Chenhao&#39;s Blog</description>
     <image>
       <title>Chenhao&#39;s Blog</title>
       <url>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 May 2023 00:40:05 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 00:40:05 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/tags/%E5%9B%BD%E5%86%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
       <link>https://www.chenhao9898.com/posts/interviews_230522/</link>
@@ -19,17 +19,6 @@
       <guid>https://www.chenhao9898.com/posts/interviews_230522/</guid>
       <description>The record of my interviews last week.</description>
     </item>
-    
-    <item>
-      <title>序言</title>
-      <link>https://www.chenhao9898.com/posts/first_post/</link>
-      <pubDate>Sun, 21 May 2023 23:28:21 -0400</pubDate>
-      
-      <guid>https://www.chenhao9898.com/posts/first_post/</guid>
-      <description>The very first post on this blog.</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
