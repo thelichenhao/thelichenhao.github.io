@@ -10,7 +10,16 @@
       <link>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 May 2023 00:40:05 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 23:12:57 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>百度算法面试</title>
+      <link>https://www.chenhao9898.com/posts/interview_baidu_1/</link>
+      <pubDate>Mon, 22 May 2023 23:12:57 -0400</pubDate>
+      
+      <guid>https://www.chenhao9898.com/posts/interview_baidu_1/</guid>
+      <description>The first interview with Baidu. The job is machine learning/deep learning.</description>
+    </item>
+    
     <item>
       <title>关于上周(230515-230521)的面试</title>
       <link>https://www.chenhao9898.com/posts/interviews_230522/</link>
