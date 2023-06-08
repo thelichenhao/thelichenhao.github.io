@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>碎碎念 on Chenhao&#39;s Blog</title>
-    <link>https://www.chenhao9898.com/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
-    <description>Recent content in 碎碎念 on Chenhao&#39;s Blog</description>
+    <title>推想医疗 on Chenhao&#39;s Blog</title>
+    <link>https://www.chenhao9898.com/tags/%E6%8E%A8%E6%83%B3%E5%8C%BB%E7%96%97/</link>
+    <description>Recent content in 推想医疗 on Chenhao&#39;s Blog</description>
     <image>
       <title>Chenhao&#39;s Blog</title>
       <url>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jun 2023 00:50:19 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 00:50:19 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/tags/%E6%8E%A8%E6%83%B3%E5%8C%BB%E7%96%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>推想医疗算法一面</title>
       <link>https://www.chenhao9898.com/posts/interview_infervision_1/</link>
@@ -19,15 +19,6 @@
       
       <guid>https://www.chenhao9898.com/posts/interview_infervision_1/</guid>
       <description>The first interview of InferVision.</description>
-    </item>
-    
-    <item>
-      <title>序言</title>
-      <link>https://www.chenhao9898.com/posts/first_post/</link>
-      <pubDate>Sun, 21 May 2023 23:28:21 -0400</pubDate>
-      
-      <guid>https://www.chenhao9898.com/posts/first_post/</guid>
-      <description>The very first post on this blog.</description>
     </item>
     
   </channel>

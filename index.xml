@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jun 2023 00:44:13 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 00:50:19 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>推想医疗算法一面</title>
+      <link>https://www.chenhao9898.com/posts/interview_infervision_1/</link>
+      <pubDate>Thu, 08 Jun 2023 00:50:19 -0400</pubDate>
+      
+      <guid>https://www.chenhao9898.com/posts/interview_infervision_1/</guid>
+      <description>The first interview of InferVision.</description>
+    </item>
+    
     <item>
       <title>百度开发一面</title>
       <link>https://www.chenhao9898.com/posts/interview_baidu_3/</link>
