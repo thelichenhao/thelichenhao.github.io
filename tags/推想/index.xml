@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>开发 on Chenhao&#39;s Blog</title>
-    <link>https://www.chenhao9898.com/tags/%E5%BC%80%E5%8F%91/</link>
-    <description>Recent content in 开发 on Chenhao&#39;s Blog</description>
+    <title>推想 on Chenhao&#39;s Blog</title>
+    <link>https://www.chenhao9898.com/tags/%E6%8E%A8%E6%83%B3/</link>
+    <description>Recent content in 推想 on Chenhao&#39;s Blog</description>
     <image>
       <title>Chenhao&#39;s Blog</title>
       <url>https://www.chenhao9898.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jun 2023 17:30:50 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/tags/%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jun 2023 17:30:50 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/tags/%E6%8E%A8%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>上周面试总结</title>
       <link>https://www.chenhao9898.com/posts/interview_230613/</link>
@@ -19,15 +19,6 @@
       
       <guid>https://www.chenhao9898.com/posts/interview_230613/</guid>
       <description>The summary of the interview last week</description>
-    </item>
-    
-    <item>
-      <title>百度开发一面</title>
-      <link>https://www.chenhao9898.com/posts/interview_baidu_3/</link>
-      <pubDate>Wed, 07 Jun 2023 00:44:13 -0400</pubDate>
-      
-      <guid>https://www.chenhao9898.com/posts/interview_baidu_3/</guid>
-      <description>The first interview of Baidu SDE.</description>
     </item>
     
   </channel>
