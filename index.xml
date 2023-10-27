@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jun 2023 17:30:50 -0400</lastBuildDate><atom:link href="https://www.chenhao9898.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Oct 2023 17:09:47 +0800</lastBuildDate><atom:link href="https://www.chenhao9898.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>https://www.chenhao9898.com/posts/offer/</link>
+      <pubDate>Fri, 27 Oct 2023 17:09:47 +0800</pubDate>
+      
+      <guid>https://www.chenhao9898.com/posts/offer/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>回国了！</title>
+      <link>https://www.chenhao9898.com/posts/return/</link>
+      <pubDate>Thu, 24 Aug 2023 16:13:32 +0800</pubDate>
+      
+      <guid>https://www.chenhao9898.com/posts/return/</guid>
+      <description>回国小记</description>
+    </item>
+    
     <item>
       <title>上周面试总结</title>
       <link>https://www.chenhao9898.com/posts/interview_230613/</link>
